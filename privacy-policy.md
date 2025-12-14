@@ -1,6 +1,6 @@
 # Privacy Policy for CodeMeme
 
-**Effective Date:** _[Add date here]_
+**Effective Date:** 12 Sept 2025
 
 CodeMeme respects your privacy. This Privacy Policy explains how we handle user and device data.
 
